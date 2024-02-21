@@ -1,0 +1,14 @@
+body {
+	background-image: url("background.jpg");
+	background-size: cover;
+	opacity: 0.8;
+        
+}
+
+.contact-form {
+	background-color: white;
+	padding: 90px;
+	margin: 200px auto;
+	width: 50%;
+	opacity: 1;
+}
